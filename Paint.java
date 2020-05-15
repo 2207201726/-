@@ -1,5 +1,2 @@
-public class Paint{
-	private String color;
-	private String red;
-	private String green;
-}
+
+ git@github.com:2207201726/-.git
